@@ -1,6 +1,3 @@
--- Name:                    Remus Calugarescu
--- Example Program Call:    gnatmake -Wall imagepgm.adb imageprocess.adb image.adb && ./image
-
 with Ada.Numerics.Elementary_Functions; use Ada.Numerics.Elementary_Functions;
 
 package body imageprocess is
