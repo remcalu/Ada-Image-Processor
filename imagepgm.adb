@@ -1,6 +1,3 @@
--- Name:                    Remus Calugarescu
--- Example Program Call:    gnatmake -Wall imagepgm.adb imageprocess.adb image.adb && ./image
-
 with Ada.Text_IO; use Ada.Text_IO;
 with Ada.integer_Text_IO; use Ada.integer_Text_IO;
 with Ada.Task_Identification;  use Ada.Task_Identification;
