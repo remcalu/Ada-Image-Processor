@@ -7,7 +7,7 @@ Remus Calugarescu
 April 28, 2022
 
 ## Purpose
-Mainly as an exercise for using Ada, this program takes a matrix of pixel values between 0 and 255, each number represents a shade with 0 being white, and 255 being black. Images can then be generated through this system through the PGM (Portable Gray Map) file format.
+Mainly as an exercise for using Ada, this program takes a matrix of pixel values between 0 and 255, each number represents a pixel and its shade with 0 being white, and 255 being black. Images can then be generated through this system through the PGM (Portable Gray Map) file format.
 
 ## Installing dependencies
 First you must have gnat installed, you can do so by running
