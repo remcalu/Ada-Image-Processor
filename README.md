@@ -1,4 +1,4 @@
-# Ada Image Processing
+# Ada Image Processor
 
 ## Author
 Remus Calugarescu
