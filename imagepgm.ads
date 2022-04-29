@@ -1,6 +1,3 @@
--- Name:                    Remus Calugarescu
--- Example Program Call:    gnatmake -Wall imagepgm.adb imageprocess.adb image.adb && ./image
-
 with imageprocess; use imageprocess;
 
 package imagepgm is
